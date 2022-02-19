@@ -23,3 +23,10 @@ Path: /api/v1/student
     }
 ]
 ```
+
+### Endpoints:
+- GET request: get all students.
+- POST request: save a student.
+- PUT request: update a student's info.
+- DELETE request: delete a student.
+
